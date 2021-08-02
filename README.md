@@ -10,6 +10,8 @@
 
 #### interesting
 
+- **Python**
+- **Javascript | TypeScript**
 - **computer architecture**
 - **database**
-- **health care**
+- **E-Commerce**
